@@ -1,5 +1,5 @@
 # rahulsai-aco
-ACO Repository
+Ant Colony Optimization Repository
 
 Author - Chintala Rahulsai Shrinivas
 
